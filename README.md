@@ -17,5 +17,5 @@ A Minimalistic theme for sharing programming tactics and ideas.
 
 ![Preview 2][2]
 
-[1]: https://raw.githubusercontent.com/charles-hollenbeck/minimalistic-coding-jekyll-theme/screenshots/1.jpg
-[2]: https://raw.githubusercontent.com/charles-hollenbeck/minimalistic-coding-jekyll-theme/screenshots/1.jpg
+[1]: https://raw.githubusercontent.com/charles-hollenbeck/minimalistic-coding-jekyll-theme/master/screenshots/1.jpg
+[2]: https://raw.githubusercontent.com/charles-hollenbeck/minimalistic-coding-jekyll-theme/master/screenshots/2.jpg
