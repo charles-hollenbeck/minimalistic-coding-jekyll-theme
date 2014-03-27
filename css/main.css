@@ -1,0 +1,82 @@
+html, body {
+	margin: 0 auto;
+}
+body {
+	background-color: #D5D5D5;
+	font-family: Helvetica, Arial, sans-serif;
+}
+h1#brand {
+	padding: 10px 20px;
+	box-shadow: 0 0 2px 0 #888;
+	background-color: #F5F5F5;
+	margin: 0 auto;
+}
+footer {
+	padding: 10px;
+	box-shadow: 0 0 2px 0 #888;
+	background-color: #F5F5F5;
+}
+footer p {
+	margin: 0;
+}
+a {
+	color: #8493CA;
+	text-decoration: none;
+}
+a:visited, a:link  {
+	color: #8882BE;
+}
+a:hover {
+	color: rgb(0, 163, 255);
+}
+#container {
+	margin: 20px auto;
+	box-shadow: 0 0 2px 0 #888;
+}
+article {
+	margin: 0 auto;
+	border-bottom: 1px ridge #D5D5D5;
+}
+article header{
+	border-bottom: 1px ridge #D5D5D5;
+}
+article section {
+	padding: 15px;
+}
+article h4 {
+	padding: 0 10px;
+	margin: 0 auto;
+}
+article h4 a, article h4 a:visited, article h4 a:link {
+	color: #222;
+}
+article h4 a:hover {
+	color: #3BB878;
+}
+#container article {
+	background-color: #F5F5F5;
+}
+#container article.multi:nth-child(even){
+	background-color: #E5E5E5;
+}
+#container article.multi:nth-child(odd){
+	background-color: #F5F5F5;
+}
+article h4, article aside{
+	display:inline-block;
+}
+div#gohome {
+	float:right;
+	border-left: 1px ridge #D5D5D5;
+}
+div#gohome a {
+	padding: 10px 20px;
+	display: block;
+}
+article aside {
+	border-right: 1px ridge #D5D5D5;
+	padding: 10px 20px;
+}
+#wrapper {
+	margin: 20px;
+}

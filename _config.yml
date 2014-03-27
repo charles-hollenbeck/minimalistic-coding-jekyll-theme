@@ -1,0 +1,4 @@
+name: Minimalistic Coding
+markdown: redcarpet
+pygments: true
+timezone: America/New_York
