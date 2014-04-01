@@ -5,9 +5,7 @@ A Minimalistic theme for sharing programming tactics and ideas.
 
 1. Copy ```_layouts```, ```css```, ```config.yml``` and ```index.html``` into your root jekyll directory.
 
-2. Edit config.yml to include your Timezone/Site Name
-
-3. Edit the copyright and github link in ```_layouts/default.html``` on line 19
+2. Edit config.yml to include your Timezone/Site Name/Github Username/Author Name
 
 3. Serve it up with ```jekyll server``` or build it with ```jekyll build```!
 
